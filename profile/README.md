@@ -1,3 +1,5 @@
+![GoComplaint 2](https://github.com/GoComplaint/.github/assets/99982084/6b3a83ee-925b-43f6-a179-178e9ab65c01)
+
 # GoComplaint
 
 **GoComplaint** is a platform to report complaints related to public-services or issues. Thus, the complaint will be easily followed up by the government and take action on the report based on the priority, seen from the level of urgency.
